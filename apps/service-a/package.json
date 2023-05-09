@@ -43,6 +43,8 @@
     "swagger-ui-express": "4.3.0",
     "ts-node": "10.9.1",
     "validator": "^13.9.0",
+    "@nestjs/microservices": "^9.3.10",
+    "nats": "^2.13.1",
     "@nestjs/jwt": "^10.0.2",
     "@nestjs/passport": "^9.0.0",
     "passport": "0.6.0",
